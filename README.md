@@ -1,1 +1,1 @@
-# spring-framework-examples
+# Spring framework examples
