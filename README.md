@@ -14,6 +14,8 @@
 - [Corso di Java Spring Framework #4: Bean (prima parte)](https://youtu.be/mxPUSiPiOLU)
 - [Corso di Java Spring Framework #5: Bean (seconda parte)](https://youtu.be/j-NrW-0_8BE)
 - [Corso di Java Spring Framework #6: alla scoperta di Spring Boot](https://youtu.be/cZcZanMXq7A)
+- [Corso di Java Spring Framework #7: bean loading](https://youtu.be/Vs76qrF0TBM)
+
 
 ## Esercitazioni Spring Boot (in Italian)
 
