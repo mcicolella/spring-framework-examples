@@ -49,3 +49,8 @@
 * Applicazioni sicure con Keycloack e Docker - [:movie_camera:](https://youtu.be/2_nnPboQd5w)
 * AOP Aspect Oriented Programming in Spring #1 - [:movie_camera:](https://youtu.be/8OKC3c6ryKg)
 * [Un esempio pratico di AOP in Spring](https://www.emmecilab.net/blog/un-esempio-pratico-di-aop-aspect-oriented-programming-in-spring)
+
+
+## Flashcard Anki
+    
+- [Lista flashcard disponibili](https://www.emmecilab.net/blog/flashcard-anki)
