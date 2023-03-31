@@ -14,7 +14,12 @@
 - Corso di Java Spring Framework #6: alla scoperta di Spring Boot - [:movie_camera:](https://youtu.be/cZcZanMXq7A)
 - Corso di Java Spring Framework #7: bean loading - [:movie_camera:](https://youtu.be/Vs76qrF0TBM)
 - Corso di Java Spring Framework #8: modalità di Dependency Injection - [:movie_camera:](https://youtu.be/DRDmMJHV4rc)
-- Corso di Java Spring Framework: risolvere le ambiguità con @Primary e @Qualifier - [:movie_camera:](https://youtu.be/7O9bYs29CjE)
+- Corso di Java Spring Framework #9: Dependency Injection in pratica - [:movie_camera:](https://youtu.be/c74ZhXgQnXw)
+- Corso di Java Spring Framework #10: dipendenze circolari - [:movie_camera:](https://youtu.be/UlOQifvZ0qg)
+- Corso di Java Spring Framework #11: risolvere le ambiguità con @Primary e @Qualifier - [:movie_camera:](https://youtu.be/7O9bYs29CjE)
+- Corso di Java Spring Framework #12: scope dei bean (singleton) - [:movie_camera:](https://youtu.be/yXxRVJhGtmA)
+- Corso di Java Spring Framework #13: scope dei bean (prototype) - [:movie_camera:](https://youtu.be/XcjjigAxvUQ)
+
 
 
 ## Esercitazioni Spring Boot (in Italian)
