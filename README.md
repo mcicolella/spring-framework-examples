@@ -60,3 +60,8 @@
 ## Flashcard Anki
     
 - [Lista flashcard disponibili](https://www.emmecilab.net/blog/flashcard-anki)
+
+
+## Risorse per approfondire
+    
+- [Bibliografia](https://www.emmecilab.net/bibliografia/)
