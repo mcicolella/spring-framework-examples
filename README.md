@@ -39,24 +39,24 @@
 * [Esercitazioni di Spring Boot 9: è l’ora della sicurezza](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-9-e-lora-della-sicurezza/) - [:movie_camera:](https://youtu.be/r8KMsuqDodo)
 * [Esercitazioni di Spring Boot 10: usiamo la cache](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-10-usiamo-la-cache/) - [:movie_camera:](https://youtu.be/dFBPkb9qkh4)
 
-## Spring Boot Tutorial (in Italian)
+## Tutorial Spring Boot (in Italian)
 
-* [Spring Boot: come pianificare l’esecuzione di task](https://www.emmecilab.net/blog/spring-boot-come-pianificare-lesecuzione-di-task/) - [:movie_camera:](https://youtu.be/LymjmNMu-6A)
-* [Spring Boot: leggere da application.properties](https://www.emmecilab.net/blog/spring-boot-leggere-da-application-properties/)
-* Spring Boot: inizializzazioni con @PostConstruct
-* [Spring  Boot incontra Docker](https://www.emmecilab.net/blog/spring-boot-incontra-docker/) - [:movie_camera:](https://youtu.be/unnPZUBO5K8)
-* [Spring  Boot incontra Docker 2: multistage per immagini light](https://www.emmecilab.net/blog/spring-boot-incontra-docker-2-multi-stage-per-immagini-light)
-* Spring Boot: come sostituire il webserver embedded - [:movie_camera:](https://youtu.be/hyU3qfAcnxM)
-* Spring Boot: gestire i progetti con Eclipse e il plugin STS - [:movie_camera:](https://youtu.be/uamAHFD5yBA)
-* Spring Boot: installare Lombok su Eclipse - [:movie_camera:](https://youtu.be/zB2WWsNxpNo)
-* Spring Boot: @Controller vs @RestController - [:movie_camera:](https://youtu.be/brYFW9NmM4A)
-* Spring Boot: come impostare un banner personalizzato - [:movie_camera:](https://youtu.be/3Bj3m7XB1d4)
-* Spring Boot: deploy di una applicazione su App Platform by DigitalOcean - [:movie_camera:](https://youtu.be/UI7Mdhkg4-g)
+* [TUTORIAL SPRING BOOT | Task scheduling](https://www.emmecilab.net/blog/spring-boot-come-pianificare-lesecuzione-di-task/) - [:movie_camera:](https://youtu.be/LymjmNMu-6A)
+* TUTORIAL SPRING BOOT | Leggere da application.properties
+* TUTORIAL SPRING BOOT | Inizializzazioni con @PostConstruct
+* [Spring Boot & Docker #1](https://www.emmecilab.net/blog/spring-boot-incontra-docker/) - [:movie_camera:](https://youtu.be/unnPZUBO5K8)
+* [Spring Boot incontra Docker #2 | Multistage per immagini light](https://www.emmecilab.net/blog/spring-boot-incontra-docker-2-multi-stage-per-immagini-light)
+* TUTORIAL SPRING BOOT | Come sostituire il webserver embedded - [:movie_camera:](https://youtu.be/hyU3qfAcnxM)
+* TUTORIAL SPRING BOOT | Gestire i progetti con Eclipse e il plugin STS - [:movie_camera:](https://youtu.be/uamAHFD5yBA)
+* TUTORIAL SPRING BOOT | Installare Lombok su Eclipse - [:movie_camera:](https://youtu.be/zB2WWsNxpNo)
+* TUTORIAL SPRING BOOT | @Controller vs @RestController - [:movie_camera:](https://youtu.be/brYFW9NmM4A)
+* TUTORIAL SPRING BOOT | Come impostare un banner personalizzato - [:movie_camera:](https://youtu.be/3Bj3m7XB1d4)
+* TUTORIAL SPRING BOOT | Deploy di una applicazione su App Platform by DigitalOcean - [:movie_camera:](https://youtu.be/UI7Mdhkg4-g)
 * [Spring Boot e RabbitMQ](https://www.emmecilab.net/blog/spring-boot-e-rabbitmq) - [:movie_camera:](https://youtu.be/09OPikwK05M)
-* Integrazione piattaforma PayPal #1: impostiamo la sandbox - [:movie_camera:](https://youtu.be/rmq14D10Gl0)
+* Integrazione piattaforma PayPal #1 | Impostiamo la sandbox - [:movie_camera:](https://youtu.be/rmq14D10Gl0)
 * Applicazioni sicure con Keycloack e Docker - [:movie_camera:](https://youtu.be/2_nnPboQd5w)
-* AOP Aspect Oriented Programming in Spring #1 - [:movie_camera:](https://youtu.be/8OKC3c6ryKg)
-* [Un esempio pratico di AOP in Spring](https://www.emmecilab.net/blog/un-esempio-pratico-di-aop-aspect-oriented-programming-in-spring)
+* [AOP Aspect Oriented Programming in Spring #1 | Introduzione](https://www.emmecilab.net/blog/introduzione-aop-aspect-oriented-programming-in-spring) - [:movie_camera:](https://youtu.be/8OKC3c6ryKg)
+* [AOP Aspect Oriented Programming Spring #2 | Un primo esempio pratico](https://www.emmecilab.net/blog/un-esempio-pratico-di-aop-aspect-oriented-programming-in-spring) - [:movie_camera:](https://youtu.be/Z6kYS5MEVus)
 * [Migrare una applicazione a Spring Boot 3](https://www.emmecilab.net/blog/migrare-una-applicazione-a-spring-boot-3) - [:movie_camera:](https://youtu.be/lqrilogi2Ys)
 
 
