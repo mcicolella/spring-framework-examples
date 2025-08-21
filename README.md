@@ -23,6 +23,8 @@
 - Corso di Java Spring Framework     | Annotazione @SpringBootApplication - [:movie_camera:](https://youtu.be/Nm-TxcKtdpw)
 - Corso di Java Spring Framework     | Il pattern MVC - [:movie_camera:](https://youtu.be/Q8-qhtmz104)
 - Corso di Java Spring Framework     | Introduzione a Spring Web MVC - [:movie_camera:](https://youtu.be/gackMB5-nSg)
+- Corso di Java Spring Framework     | Spring Web MVC Controller - [:movie_camera:](https://youtu.be/DD1WSgyZw3Y)
+- Corso di Java Spring Framework     | Spring Web MVC Annotazione @ResponseBody - [:movie_camera:](https://youtu.be/Y_4jeuh4n-I)
 
 
 ## Esercitazioni Spring Boot (in Italian)
