@@ -19,6 +19,7 @@
 - [Corso di Java Spring Framework #12 | Scope dei bean (singleton)](https://www.emmecilab.net/blog/corso-di-java-spring-framework-12-scope-dei-bean-singleton) - [:movie_camera:](https://youtu.be/yXxRVJhGtmA)
 - [Corso di Java Spring Framework #13 | Scope dei bean (prototype)](https://www.emmecilab.net/blog/corso-di-java-spring-framework-13-scope-dei-bean-prototype) - [:movie_camera:](https://youtu.be/XcjjigAxvUQ)
 - Corso di Java Spring Framework #14 | Gestire l'ordine di creazione dei bean - [:movie_camera:](https://youtu.be/puaOQq2TcJA)
+- Corso di Java Spring Framework #15 | Annotazioni @Controller @Service @Repository - [:movie_camera:](https://youtu.be/OPuRL4rwdEU)
 - Corso di Java Spring Framework     | Creare un progetto Spring Boot online - [:movie_camera:](https://youtu.be/Flx2qY_UXkA)
 - Corso di Java Spring Framework     | Annotazione @SpringBootApplication - [:movie_camera:](https://youtu.be/Nm-TxcKtdpw)
 - Corso di Java Spring Framework     | Il pattern MVC - [:movie_camera:](https://youtu.be/Q8-qhtmz104)
